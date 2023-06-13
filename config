@@ -1,0 +1,96 @@
+[default]
+region = us-east-1
+output = yaml
+[profile arcom]
+region = us-east-1
+output = yaml
+[profile deltekdev]
+region = us-east-1
+output = yaml
+[profile especs]
+region = us-east-1
+output = yaml
+[profile interspec]
+region = us-east-1
+output = yaml
+[profile cp]
+region = us-east-1
+output = yaml
+[profile cpuso]
+region = us-east-1
+output = yaml
+[profile dco]
+region = us-east-1
+output = yaml
+[profile deltekea]
+region = us-east-1
+output = yaml
+[profile dtm]
+region = us-east-1
+output = yaml
+[profile dtmus]
+region = us-east-1
+output = yaml
+[profile flexplus]
+region = us-east-1
+output = yaml
+[profile onvia]
+region = us-east-1
+output = yaml
+[profile sohnar]
+region = us-east-1
+output = yaml
+[profile sohnar01]
+region = us-east-1
+output = yaml
+[profile sohnar02]
+region = us-east-1
+output = yaml
+[profile sohnar03]
+region = us-east-1
+output = yaml
+[profile sohnar04]
+region = us-east-1
+output = yaml
+[profile sohnar05]
+region = us-east-1
+output = yaml
+[profile sohnar06]
+region = us-east-1
+output = yaml
+[profile sohnarwpp]
+region = us-east-1
+output = yaml
+[profile computerease]
+region = us-east-1
+output = yaml
+[profile offsec]
+region = us-east-1
+output = yaml
+[profile govwin]
+region = us-east-1
+output = yaml
+[profile globaloss]
+region = us-east-1
+output = yaml
+[profile dcosandbox]
+region = us-east-1
+output = yaml
+[profile sc-dsb]
+region = us-east-1
+output = yaml
+[profile ec-maconomy-sandbox]
+region = us-east-1
+output = yaml
+[profile govwindev]
+region = us-east-1
+output = yaml
+[profile unionpoint]
+region = us-east-1
+output = yaml
+[profile dcosecsandbox]
+region = us-east-1
+output = yaml
+[profile gccengr]
+region = us-gov-east-1
+output = yaml
